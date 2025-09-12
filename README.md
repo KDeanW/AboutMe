@@ -24,3 +24,10 @@ Markdown Tutorial
 ## Favorite Quotes
 this is a **quote**.\
 This is also __a__ quote.\
+
+## My favorite websites
+[Totally real site](http://1.2.3.4/ "It definitly exist
+trust me")
+[the previos website is so real & existent][If it isn't real, then how is there a link]
+
+[If it isn't real, then how is there a link]:http://4.3.2.1/
