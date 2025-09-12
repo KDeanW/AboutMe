@@ -1,8 +1,7 @@
 # AboutMe
-Markdown Tutorial
-
-
+---
+---
 ## Summery
-I wrote this sentance.\
-I wrote this sentance too.\
-I'm honestly not sure who wrote this sentance, and that scares me.
+My name is Kaden D. Wright, I am a highschool senior at New Tech and take a half day computer science class at SICTC. I enjoy learning differant programing languages and playing videogames.
+
+Markdown Tutorial
