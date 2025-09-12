@@ -19,3 +19,8 @@ Number tierlist
   9. 9
 
 Markdown Tutorial
+## My Motto
+*1% is alot better than 0%*
+## Favorite Quotes
+this is a **quote**.\
+This is also __a__ quote.\
