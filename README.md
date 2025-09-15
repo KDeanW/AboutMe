@@ -35,6 +35,6 @@ trust me")\
 ## Persons of Interest
 
 [Horatio Nelson][5]\
-<img src="img/HoratioNelson1" height="100px" width="100px">
+<img src="img/HoratioNelson1.jpg" height="100px" width="100px">
 
 Markdown Tutorial
