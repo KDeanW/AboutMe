@@ -27,7 +27,7 @@ This is also __a__ quote.\
 
 ## My favorite websites
 [Totally real site](http://1.2.3.4/ "It definitly exist
-trust me")
+trust me")\
 [the previos website is so real & existent][If it isn't real, then how is there a link]
 
 [If it isn't real, then how is there a link]:http://4.3.2.1/
@@ -35,6 +35,6 @@ trust me")
 ## Persons of Interest
 
 [Horatio Nelson][5]\
-<img src="img/HoratioNelson1" height="000px" width="000px">
+<img src="img/HoratioNelson1" height="100px" width="100px">
 
 Markdown Tutorial
