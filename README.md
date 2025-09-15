@@ -19,8 +19,8 @@ Number tierlist
   8. 8
   9. 9
 
-| Terms |
-|--:|:--|  
+| Terms |Definitions|
+|--:|:--:|  
 |Term 1|Definition a|
 |Term 2|Definition b|
 |Term 3|Definition c|
