@@ -19,6 +19,12 @@ Number tierlist
   8. 8
   9. 9
 
+| Terms |
+| --:        |  
+|Term 1|
+|Term 2|
+|Term 3|
+|Term 4|
 ## My Motto
 *1% is alot better than 0%*
 ## Favorite Quotes
